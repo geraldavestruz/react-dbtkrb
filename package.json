@@ -4,10 +4,15 @@
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.9.2",
+    "auto": "^10.29.3",
     "bootstrap": "^5.0.2",
+    "import": "^0.0.6",
     "lodash": "^4.17.21",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "prettier": "^2.3.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-snippets": "^1.0.2",
+    "snippets": "^0.0.6"
   },
   "scripts": {
     "start": "react-scripts start",
